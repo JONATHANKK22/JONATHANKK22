@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="100%" height="450" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 <h1 align="center">Hi 👋, I'm Jonathan Almeida</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"> -->
 
 
 
